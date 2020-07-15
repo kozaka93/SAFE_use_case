@@ -35,11 +35,3 @@ mltools::auc_roc(pred_lm_new2, train$class == "bad")
 # 0.8214286
 mltools::auc_roc(pred_lm_new, test$class == "bad")
 
-
-
-# variables <- c("credit_history", "credit_amount")
-# 
-# for(var in variables){
-#   p <- plot(safe_extractor_gbm, variable = var)
-#   plot(p)
-# }

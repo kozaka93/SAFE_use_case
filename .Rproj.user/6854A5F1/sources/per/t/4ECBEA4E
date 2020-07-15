@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594822252313.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "978679819",
+    "id" : "4ECBEA4E",
+    "lastKnownWriteTime" : 1594735339,
+    "last_content_update" : 1594735339,
+    "path" : "~/GitHub/SAFE_use_case/models/gbm_model.R",
+    "project_path" : "models/gbm_model.R",
+    "properties" : {
+        "cursorPosition" : "21,29",
+        "scrollLine" : "18",
+        "source_window_id" : "",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

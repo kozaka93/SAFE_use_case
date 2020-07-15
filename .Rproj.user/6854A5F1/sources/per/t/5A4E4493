@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594822237088.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3024981215",
+    "id" : "5A4E4493",
+    "lastKnownWriteTime" : 1594735480,
+    "last_content_update" : 1594735480,
+    "path" : "~/GitHub/SAFE_use_case/models/glm_model.R",
+    "project_path" : "models/glm_model.R",
+    "properties" : {
+        "cursorPosition" : "10,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

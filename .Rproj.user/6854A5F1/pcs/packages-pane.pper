@@ -1,0 +1,7 @@
+{
+    "installOptions" : {
+        "installDependencies" : true,
+        "installFromRepository" : true,
+        "libraryPath" : "C:/Users/AnnA/Documents/GitHub/SAFE_use_case/renv/library/R-3.6/x86_64-w64-mingw32"
+    }
+}
